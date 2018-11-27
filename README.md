@@ -77,6 +77,12 @@ $ docker exec -it <container_name> install-magento
 $ docker exec -it <container_name> install-sampledata
 ~~~
 
+### Set Developer mode
+
+See logs and crashes using
+
+`bin/magento deploy:mode:set developer`
+
 **Please note:** Sample data for Magento 2.2.2 doesn't work at the moment, see [this issue](https://github.com/alexcheng1982/docker-magento2/issues/11).
 
 ### Database
