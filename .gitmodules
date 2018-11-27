@@ -1,0 +1,4 @@
+[submodule "modules/shippify-magento-2"]
+	path = modules/shippify-magento-2
+	url = https://github.com/shippify/shippify-magento-2
+	branch = version-2
